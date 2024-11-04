@@ -56,6 +56,7 @@ public class main {
 		
 		Fibonacci f = new Fibonacci();
 		
-		f.gerarSequencia(45);
+		f.gerarSequencia(20);
+		
 	}
 }
